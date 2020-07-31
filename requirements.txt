@@ -1,0 +1,5 @@
+Flask==1.*
+flask_cors==3.*
+ocrmypdf==9.*
+redis==3.*
+werkzeug==1.*
